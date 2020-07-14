@@ -6,8 +6,8 @@ I'm Vibhu. I'm an **Engineer** from **India**  who is passionate about developin
 
 - 🌱 I’m currently exploring JavaScript and improving in it regularly.
 - 👯 I’m looking to collaborate on React.js and Node.js projects.
--💬 Ask me about web, sports and life.
--⚡ Fun fact: NaN is a Number.
+- 💬 Ask me about web, sports and life.
+- ⚡ Fun fact: NaN is a Number.
 
 📫 How to reach me:
 
