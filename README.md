@@ -4,7 +4,9 @@
 
 I'm Vibhu. I'm an **Engineer** from **India**  who is passionate about developing software products, learning new technologies and keeping up with the latest trends.
 
-- 👯 I’m looking to collaborate on React.js and Node.js projects.
+- 🔭 I’m currently working on Node, React.
+- 👯 I’m looking to collaborate on React open source projects.
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about web, sports and life.
 - ⚡ Fun fact: NaN is a Number.
 
