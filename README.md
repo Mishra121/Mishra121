@@ -6,7 +6,6 @@ I'm Vibhu. I'm an **Engineer** from **India**  who is passionate about developin
 
 - 🔭 I’m currently working on Node, React.
 - 👯 I’m looking to collaborate on React open source projects.
-- 🌱 I’m currently learning Golang
 - 💬 Ask me about web, sports and life.
 - ⚡ Fun fact: NaN is a Number.
 
